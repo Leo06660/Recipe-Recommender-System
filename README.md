@@ -16,11 +16,11 @@
 </ul>
 
 ### Techniques
-<ul>
-    <li>Web scraping (BS4 and Selenium)</li>
-    <li>Matrix completion</li>
-    <li>Optimization problem (Pyomo)</li>
-</ul>
+<ol>
+    <li><strong>Web Scraping</strong><br>The dataset was scraped the website by using Selenium and BS4 from “Food.com”</li>
+    <li><strong>Data Manipulation</strong><br>The scraped result was stored as a `dataframe`, using `dictionary` as the data structure for nutrition and personal ratings, and `array` as the data structure to store ingredients</li>
+    <li><strong>Matrix Completion</strong><br>An open-source `soft_impute.py` online that implements matrix completion by solving a convex optimization program:</li>
+</ol>
 
 ### Result
 <div id="header" align="left">
