@@ -1,5 +1,8 @@
 # Meal Planning Problem
-A recipe recommendation system that can help users to customize the meal by desired preference
+<div id="header" align="left">
+    <p>A recipe recommendation system that can help users to customize the meal by desired preference</p>
+    <img src="https://github.com/Leo06660/Recipe-Recommender-System/blob/master/chart/Flowchart.png?raw=true" height="250" />
+</div>
 
 ### Introduction
 <ul>
@@ -19,5 +22,28 @@ A recipe recommendation system that can help users to customize the meal by desi
     <li>Optimization problem (Pyomo)</li>
 </ul>
 
+### Result
+<div id="header" align="left">
+    <ul>
+        <li>Optimized meal planning for these two persons</li>
+        <li>The number in the colored bar represents the index of the recipes</li>
+        <li>The length of the bar is the estimated total time (cooking + preparing)</li>
+        <li>Weekdays are segmented by red dotted line- 2.5 hours per day for cooking only</li>
+        <li>The below <strong>Cooking Schedule Figure</strong> tells which person should cook what on which day</li>
+        <li>The below <strong>Recommended Recipes for each day Figure</strong> shows the dishes they can have for each day</li>
+    </ul>
+    <img src="https://github.com/Leo06660/Recipe-Recommender-System/blob/master/chart/Single%20Solution%20Figure.png?raw=true" height="300" />
+</div>
 
+### Conclusion
+<div id="header" align="left">
+    <ul>
+        <li>This project is a combination of three different skills: web scraping, recommender system, and optimization problem modeling.s</li>
+        <li>Optimized user-based weekly meal planning system using Pyomo library with ~90% level of satisfaction</li>
+</div>
 
+### Future work
+<div id="header" align="left">
+    <p>Website Develop</p>
+    <img src="https://github.com/Leo06660/Recipe-Recommender-System/blob/master/chart/future_work.png" />
+</div>
