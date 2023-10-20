@@ -1,4 +1,6 @@
 # Meal Planning Problem
+<em>This project is also published at [my portfolio website](https://yilichen-leoportfolio-f709a-7d1d9.stackbit.app/blog/Recipe-Recommendation-System/) </em>
+
 <div id="header" align="left">
     <p>A recipe recommendation system that can help users to customize the meal by desired preference</p>
     <img src="https://github.com/Leo06660/Recipe-Recommender-System/blob/master/chart/Flowchart.png?raw=true" height="250" />
